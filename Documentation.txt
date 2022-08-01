@@ -1,0 +1,13 @@
+Stock Historical Data
+
+	* JPMorgan Chase & Co (JPM) - https://www.investing.com/equities/jp-morgan-chase-historical-data		
+	* Bank of America Corp (BAC) - https://www.investing.com/equities/bank-of-america-historical-data
+	* Wells Fargo & Company (WFC) - https://www.investing.com/equities/wells-fargo-historical-data
+	* Bbva Bancomer Indizado Sa Cv P (BMERINDP) - https://www.investing.com/equities/bbva-bancomer-indizado-sa-cv-p-historical-data
+	* Grupo Financiero Santander Mexico SAB de CV Class B (BSMXB) - https://www.investing.com/equities/grupo-financiero-santander-b
+	* Grupo Financiero Banorte (GFNORTEO) - https://www.investing.com/equities/financiero-banorte-historical-data
+
+USD to MXN exchange rate Historical
+
+- https://www.macrotrends.net/2559/us-dollar-mexican-peso-exchange-rate-historical-chart
+- https://fred.stlouisfed.org/series/DEXMXUS
